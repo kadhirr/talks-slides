@@ -251,7 +251,7 @@ layout: center
 ---
 layout: figure
 figureCaption: 'Dask Overview'
-figureUrl: '/assets/daskoverview.jpg'
+figureUrl: 'https://raw.githubusercontent.com/kadhirr/talks-slides/main/cognitive-dcc/assets/daskoverview.jpg'
 ---
 
 # Dask <simple-icons-dask />
