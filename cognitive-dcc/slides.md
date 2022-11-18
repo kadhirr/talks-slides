@@ -58,7 +58,7 @@ There are two types of distributed Learning (in Deep Learning)
 
 ---
 layout: figure-side
-figureUrl: './assets/model_parallelism.png'
+figureUrl: '/assets/model_parallelism.png'
 figureCaption: 'Model Parallelism'
 ---
 
