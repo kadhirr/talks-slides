@@ -251,7 +251,7 @@ layout: center
 ---
 layout: figure
 figureCaption: 'Dask Overview'
-figureUrl: '/assets/dask_overviewimg.png'
+figureUrl: '/assets/daskoverview.jpg'
 ---
 
 # Dask <simple-icons-dask />
